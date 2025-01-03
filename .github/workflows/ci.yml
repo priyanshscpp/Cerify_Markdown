@@ -1,3 +1,5 @@
+#Its more like a shell scripting cmd that needs to be executed.
+
 name: ci 
 on:
   push:
