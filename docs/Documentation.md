@@ -1,4 +1,4 @@
-```markdown
+
 # Cerify: Smart Contract Verification and Certification Tool
 
 ## Overview
@@ -177,5 +177,5 @@ const loginUser = async (email, password) => {
 ---
 
 This document serves as a foundational guide for developers to understand and contribute to the Cerify project. For further details, refer to the codebase and associated API documentation.
-```
+
 
