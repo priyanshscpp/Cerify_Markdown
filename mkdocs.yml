@@ -1,7 +1,7 @@
 site_name: Cerify Documentation
 site_url: https://cerifydocx.github.io/
 theme:
-  name: material
+  name: mkdocs
   features:
     - navigation.tabs
     - navigation.sections

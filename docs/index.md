@@ -1,4 +1,4 @@
-# Documentation
+# Introduction
 
 Cerify is an advanced blockchain-based platform designed for analyzing, verifying, and certifying smart contracts. It leverages cutting-edge technologies to empower developers and organizations with tools to ensure the security and reliability of their blockchain applications. By enabling users to upload Solidity files, Cerify performs a detailed security assessment and generates insightful reports.
 
