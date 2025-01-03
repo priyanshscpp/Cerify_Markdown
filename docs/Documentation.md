@@ -1,5 +1,5 @@
 
-# Cerify: Smart Contract Verification and Certification Tool
+# Cerify Systems: Frontend
 
 ## Overview
 Cerify is a platform designed to enable users to upload and manage smart contracts with automated verification, scoring, and certification. The project integrates blockchain technology with modern backend and frontend frameworks to provide a seamless user experience while ensuring secure and efficient handling of smart contracts. This document provides an in-depth overview of the architecture, starting with the frontend and then the backend, and the technologies used in the development of Cerify. It serves as a guide for new developers to understand the codebase and contribute effectively.
